@@ -16,17 +16,9 @@ def random_sudoku
 end
 
 def puzzle(sudoku)  
-  # rows = sudoku.each_slice(9).to_a  
-  # sudoku_puzzle = Sudoku.new(sudoku.join)
-  # sudoku_puzzle.boxes(rows).map do |box|
-  #   box.map do |value|
-  #     value[0] == 0 
-  #   end
-  # end 
-  # sudoku_puzzle.to_s.chars
-
-  sudoku[0] = "0"
-  sudoku
+  numbers = random_sudoku
+  73.times { numbers[rand(0..80)] = '' }
+  numbers
 end
 
 get "/" do
