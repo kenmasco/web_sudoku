@@ -25,3 +25,14 @@ body {
 .value-provided {
   background-color: #DDD;
 }
+
+a {
+  font-size: 12;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+#flash {
+  margin: 20px;
+}
