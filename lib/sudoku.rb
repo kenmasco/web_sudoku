@@ -7,7 +7,7 @@ class Sudoku
   attr_reader :cells
   private :cells
 
-  def initialize(args)
+  def initialize(args)    
     raise "Wrong number of values given, #{SIZE} expected" unless args.length == SIZE
     initialize_cells(args)
   end
@@ -56,6 +56,13 @@ class Sudoku
     try_harder unless solved?
   end
 
+  def boxes(rows)    
+    (0..BOX_SIZE-1).inject([]) do |boxes, i|      
+      relevant_rows = rows.slice(BOX_SIZE * i, BOX_SIZE)
+      boxes + relevant_rows.transpose.each_slice(BOX_SIZE).map(&:flatten)       
+    end        
+  end
+  
 private
 
   def replicate!
@@ -94,12 +101,6 @@ private
     end
   end
 
-  def boxes(rows)    
-    (0..BOX_SIZE-1).inject([]) do |boxes, i|
-      relevant_rows = rows.slice(BOX_SIZE * i, BOX_SIZE)
-      boxes + relevant_rows.transpose.each_slice(BOX_SIZE).map(&:flatten)       
-    end        
-  end
   
   def initialize_cells(digits)
     cells       = digits.split('').map {|v| Cell.new(v) }    

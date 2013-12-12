@@ -22,6 +22,10 @@ class Cell
   	@value.to_s
   end
 
+  def inspect
+    @value.to_s
+  end
+
   def solve!
   	return if solved?  	
   	assume(candidates.first) if candidates.length == 1
