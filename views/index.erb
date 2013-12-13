@@ -4,7 +4,12 @@
   <link href="/stylesheets/application.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-  <h1>Life is too short for playing Sudoku</h1>
+  <div id="background">
+    <img src="/images/background.jpg" class="stretch" alt=""/>
+</div>
+<div id"logo">
+  <img img src="images/logo.png">
+</div>
   <div id="flash">
     <%= flash[:notice] %>
   </div>
@@ -27,10 +32,14 @@
         <%end%>
       </div>
     <%end%>
-    <button>Check Solution</button>
+    <div class="buttons">
+    <button>Check the chemistry, BITCH!</button>
+    </div>
     </form>
   </div>
-    <button><a href="/button">New Puzzle</a></button>
+    <div class="buttons">
+    <button><a href="/button">New Puzzle, BITCH!</a></button>
+    </div>
 </body>
 </html>
 

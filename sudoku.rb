@@ -10,6 +10,7 @@ require_relative './lib/cell'
 require_relative './helpers/application.rb'
 
 enable :sessions
+set :session_secret, "I've got the key, I've got the secret"
 
 def random_sudoku
     # we're using 9 numbers, 1 to 9, and 72 zeros as an input
