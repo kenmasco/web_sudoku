@@ -1,14 +1,11 @@
 div.box, div.cell {
   display: inline-block;
-
-
 }
 
 div.box {
   border-style: outset;
-  border-color: cc9900;
-
-  border-width: 2;
+  border-color: transparent;
+  border-width: 1;
 }
 
 .cell input {
@@ -22,7 +19,6 @@ div.box {
   font-size: 0;
   text-align: center;
   outline-width: 10;
-
 }
 
 #background {
@@ -34,6 +30,10 @@ div.box {
     z-index: -1; 
 }
 
+.stretch {
+    width:100%;
+    height:100%;
+}
 .container {
     position: center;
     width: 400px;
@@ -44,13 +44,14 @@ div.box {
     position: center;
     width: 80%;
     height: auto;
-
 }
 
-.stretch {
-    width:100%;
-    height:100%;
+#flash {
+  text-align: center;
+  font-family: Arial;
+  color: white
 }
+
 
 h1 {
   text-align: center;
@@ -72,20 +73,27 @@ body {
   text-align: center;
   font-weight: bold;
   color: white;
-
 }
 
 a {
   font-size: 12;
   text-align: center;
   text-decoration: none;
+  color: black;
 }
 
 .buttons {
   margin: 20px;
   display: inline-block;
+  color: black;
+}
+
+.buttons {
+  margin: 0px;
+  display: inline-block;
+  color: black;
 }
 
 #flash {
-  margin: 20px;
+  margin: 10px;
 }

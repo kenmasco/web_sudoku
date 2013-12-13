@@ -4,7 +4,7 @@ helpers do
     must_be_guessed = puzzle_value == 0
     tried_to_guess = current_solution_value.to_i != 0
     guessed_incorrectly = current_solution_value != solution_value
-
+    
     if solution_to_check && 
         must_be_guessed && 
         tried_to_guess && 

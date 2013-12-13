@@ -24,9 +24,15 @@ def random_sudoku
     sudoku.to_s.chars
 end
 
-def puzzle(sudoku)    
+def easy_puzzle(sudoku)    
   numbers = sudoku.dup
   50.times { numbers[rand(0..80)] = 0 }
+  numbers
+end
+
+def hard_puzzle(sudoku)    
+  numbers = sudoku.dup
+  100.times { numbers[rand(0..80)] = 0 }
   numbers
 end
 
@@ -53,15 +59,27 @@ post "/" do
   redirect to("/")
 end 
 
-get "/button" do 
-  force_generate_new_puzzle
+get "/easy" do 
+  force_generate_new_easy_puzzle
   redirect to('/')
 end 
 
-def force_generate_new_puzzle
+get "/hard" do 
+  force_generate_new_hard_puzzle
+  redirect to('/')
+end 
+
+def force_generate_new_easy_puzzle
   sudoku = random_sudoku
   session[:solution] = sudoku
-  session[:puzzle] = puzzle(sudoku)
+  session[:puzzle] = easy_puzzle(sudoku)
+  session[:current_solution] = session[:puzzle]
+end
+
+def force_generate_new_hard_puzzle
+  sudoku = random_sudoku
+  session[:solution] = sudoku
+  session[:puzzle] = hard_puzzle(sudoku)
   session[:current_solution] = session[:puzzle]
 end
 
@@ -69,7 +87,7 @@ def generate_new_puzzle_if_necessary
   return if session[:current_solution]
   sudoku = random_sudoku
   session[:solution] = sudoku
-  session[:puzzle] = puzzle(sudoku)
+  session[:puzzle] = easy_puzzle(sudoku)
   session[:current_solution] = session[:puzzle]
 end
 
