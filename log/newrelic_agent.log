@@ -1689,3 +1689,1238 @@
 [12/13/13 15:00:24 +0000 Kennerdeighs-MacBook-Pro.local (9530)] INFO : Installing deferred Rack instrumentation
 [12/13/13 15:00:24 +0000 Kennerdeighs-MacBook-Pro.local (9530)] INFO : Finished instrumentation
 [12/13/13 15:00:24 +0000 Kennerdeighs-MacBook-Pro.local (9530)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Enabling the Request Sampler.
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Environment: development
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Dispatcher: webrick
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Installing Net instrumentation
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Finished instrumentation
+[12/13/13 15:21:34 +0000 Kennerdeighs-MacBook-Pro.local (9624)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Enabling the Request Sampler.
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Environment: development
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Dispatcher: webrick
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Installing Net instrumentation
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Finished instrumentation
+[12/13/13 15:21:35 +0000 Kennerdeighs-MacBook-Pro.local (9627)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Enabling the Request Sampler.
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Environment: development
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Dispatcher: webrick
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Installing Net instrumentation
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Finished instrumentation
+[12/13/13 15:23:24 +0000 Kennerdeighs-MacBook-Pro.local (9641)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Enabling the Request Sampler.
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Environment: development
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Dispatcher: webrick
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Installing Net instrumentation
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Finished instrumentation
+[12/13/13 15:23:25 +0000 Kennerdeighs-MacBook-Pro.local (9644)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Enabling the Request Sampler.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Environment: development
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Dispatcher: webrick
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Installing Net instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Finished instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9653)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Enabling the Request Sampler.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Environment: development
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Dispatcher: webrick
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Installing Net instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Finished instrumentation
+[12/13/13 15:24:55 +0000 Kennerdeighs-MacBook-Pro.local (9656)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Enabling the Request Sampler.
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Environment: development
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Dispatcher: webrick
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Installing Net instrumentation
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Finished instrumentation
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9660)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Enabling the Request Sampler.
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Environment: development
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Dispatcher: webrick
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:24:57 +0000 Kennerdeighs-MacBook-Pro.local (9663)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:24:58 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Installing Net instrumentation
+[12/13/13 15:24:58 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:24:58 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:24:58 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Finished instrumentation
+[12/13/13 15:24:58 +0000 Kennerdeighs-MacBook-Pro.local (9663)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Enabling the Request Sampler.
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Environment: development
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Dispatcher: webrick
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Installing Net instrumentation
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Finished instrumentation
+[12/13/13 15:25:02 +0000 Kennerdeighs-MacBook-Pro.local (9667)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Enabling the Request Sampler.
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Environment: development
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Dispatcher: webrick
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Installing Net instrumentation
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Finished instrumentation
+[12/13/13 15:25:03 +0000 Kennerdeighs-MacBook-Pro.local (9670)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Enabling the Request Sampler.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Environment: development
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Dispatcher: webrick
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Installing Net instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Finished instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9674)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Enabling the Request Sampler.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Environment: development
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Dispatcher: webrick
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Installing Net instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Finished instrumentation
+[12/13/13 15:25:11 +0000 Kennerdeighs-MacBook-Pro.local (9677)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Enabling the Request Sampler.
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Environment: development
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Dispatcher: webrick
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Installing Net instrumentation
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Finished instrumentation
+[12/13/13 15:25:26 +0000 Kennerdeighs-MacBook-Pro.local (9682)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Enabling the Request Sampler.
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Environment: development
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Dispatcher: webrick
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Installing Net instrumentation
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Finished instrumentation
+[12/13/13 15:25:27 +0000 Kennerdeighs-MacBook-Pro.local (9685)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Enabling the Request Sampler.
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Environment: development
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Dispatcher: webrick
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Installing Net instrumentation
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Finished instrumentation
+[12/13/13 15:27:24 +0000 Kennerdeighs-MacBook-Pro.local (9694)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Enabling the Request Sampler.
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Environment: development
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Dispatcher: webrick
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Installing Net instrumentation
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Finished instrumentation
+[12/13/13 15:27:45 +0000 Kennerdeighs-MacBook-Pro.local (9701)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Enabling the Request Sampler.
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Environment: development
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Dispatcher: webrick
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Installing Net instrumentation
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Finished instrumentation
+[12/13/13 15:28:36 +0000 Kennerdeighs-MacBook-Pro.local (9706)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Enabling the Request Sampler.
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Environment: development
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Dispatcher: webrick
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Installing Net instrumentation
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Finished instrumentation
+[12/13/13 15:35:09 +0000 Kennerdeighs-MacBook-Pro.local (9730)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Enabling the Request Sampler.
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Environment: development
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Dispatcher: webrick
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Installing Net instrumentation
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Finished instrumentation
+[12/13/13 15:37:29 +0000 Kennerdeighs-MacBook-Pro.local (9738)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Enabling the Request Sampler.
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Environment: development
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Dispatcher: webrick
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Installing Net instrumentation
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Finished instrumentation
+[12/13/13 15:39:10 +0000 Kennerdeighs-MacBook-Pro.local (9746)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Enabling the Request Sampler.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Environment: development
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Dispatcher: webrick
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Installing Net instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Finished instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9756)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Enabling the Request Sampler.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Environment: development
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Dispatcher: webrick
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Installing Net instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Finished instrumentation
+[12/13/13 15:41:29 +0000 Kennerdeighs-MacBook-Pro.local (9759)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Enabling the Request Sampler.
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Environment: development
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Dispatcher: webrick
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:41:43 +0000 Kennerdeighs-MacBook-Pro.local (9764)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:41:44 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Installing Net instrumentation
+[12/13/13 15:41:44 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:41:44 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:41:44 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Finished instrumentation
+[12/13/13 15:41:44 +0000 Kennerdeighs-MacBook-Pro.local (9764)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Enabling the Request Sampler.
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Environment: development
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Dispatcher: webrick
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Installing Net instrumentation
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Finished instrumentation
+[12/13/13 15:42:36 +0000 Kennerdeighs-MacBook-Pro.local (9768)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Enabling the Request Sampler.
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Environment: development
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Dispatcher: webrick
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Installing Net instrumentation
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Finished instrumentation
+[12/13/13 15:42:59 +0000 Kennerdeighs-MacBook-Pro.local (9775)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Enabling the Request Sampler.
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Environment: development
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Dispatcher: webrick
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Installing Net instrumentation
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Finished instrumentation
+[12/13/13 15:43:07 +0000 Kennerdeighs-MacBook-Pro.local (9780)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Enabling the Request Sampler.
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Environment: development
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Dispatcher: webrick
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Installing Net instrumentation
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Finished instrumentation
+[12/13/13 15:44:57 +0000 Kennerdeighs-MacBook-Pro.local (9791)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Enabling the Request Sampler.
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Environment: development
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Dispatcher: webrick
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Installing Net instrumentation
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Finished instrumentation
+[12/13/13 15:45:36 +0000 Kennerdeighs-MacBook-Pro.local (9796)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Enabling the Request Sampler.
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Environment: development
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Dispatcher: webrick
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Installing Net instrumentation
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Finished instrumentation
+[12/13/13 15:47:03 +0000 Kennerdeighs-MacBook-Pro.local (9804)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Enabling the Request Sampler.
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Environment: development
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Dispatcher: webrick
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Installing Net instrumentation
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Finished instrumentation
+[12/13/13 15:47:08 +0000 Kennerdeighs-MacBook-Pro.local (9809)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Enabling the Request Sampler.
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Environment: development
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Dispatcher: webrick
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Installing Net instrumentation
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Finished instrumentation
+[12/13/13 15:48:11 +0000 Kennerdeighs-MacBook-Pro.local (9815)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Environment: development
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Dispatcher: webrick
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Installing Net instrumentation
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Finished instrumentation
+[12/13/13 15:49:07 +0000 Kennerdeighs-MacBook-Pro.local (9821)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Environment: development
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Dispatcher: webrick
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Installing Net instrumentation
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Finished instrumentation
+[12/13/13 15:49:12 +0000 Kennerdeighs-MacBook-Pro.local (9826)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Environment: development
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Dispatcher: webrick
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Installing Net instrumentation
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Finished instrumentation
+[12/13/13 15:49:13 +0000 Kennerdeighs-MacBook-Pro.local (9829)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Environment: development
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Dispatcher: webrick
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Installing Net instrumentation
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Finished instrumentation
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9833)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Environment: development
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Dispatcher: webrick
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Installing Net instrumentation
+[12/13/13 15:49:15 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:16 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:16 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Finished instrumentation
+[12/13/13 15:49:16 +0000 Kennerdeighs-MacBook-Pro.local (9836)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Environment: development
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Dispatcher: webrick
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Installing Net instrumentation
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Finished instrumentation
+[12/13/13 15:49:19 +0000 Kennerdeighs-MacBook-Pro.local (9840)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Environment: development
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Dispatcher: webrick
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Installing Net instrumentation
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Finished instrumentation
+[12/13/13 15:49:20 +0000 Kennerdeighs-MacBook-Pro.local (9845)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Enabling the Request Sampler.
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Environment: development
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Dispatcher: webrick
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Installing Net instrumentation
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Finished instrumentation
+[12/13/13 15:49:21 +0000 Kennerdeighs-MacBook-Pro.local (9848)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Environment: development
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Dispatcher: webrick
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Installing Net instrumentation
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Finished instrumentation
+[12/13/13 15:50:07 +0000 Kennerdeighs-MacBook-Pro.local (9854)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Environment: development
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Dispatcher: webrick
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Installing Net instrumentation
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Finished instrumentation
+[12/13/13 15:50:08 +0000 Kennerdeighs-MacBook-Pro.local (9857)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Environment: development
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Dispatcher: webrick
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Installing Net instrumentation
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Finished instrumentation
+[12/13/13 15:50:11 +0000 Kennerdeighs-MacBook-Pro.local (9861)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Environment: development
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Dispatcher: webrick
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Installing Net instrumentation
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Finished instrumentation
+[12/13/13 15:50:12 +0000 Kennerdeighs-MacBook-Pro.local (9864)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Environment: development
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Dispatcher: webrick
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Installing Net instrumentation
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Finished instrumentation
+[12/13/13 15:50:46 +0000 Kennerdeighs-MacBook-Pro.local (9868)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Environment: development
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Dispatcher: webrick
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Installing Net instrumentation
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Finished instrumentation
+[12/13/13 15:50:49 +0000 Kennerdeighs-MacBook-Pro.local (9875)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Environment: development
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Dispatcher: webrick
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Installing Net instrumentation
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Finished instrumentation
+[12/13/13 15:50:50 +0000 Kennerdeighs-MacBook-Pro.local (9878)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Environment: development
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Dispatcher: webrick
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Installing Net instrumentation
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Finished instrumentation
+[12/13/13 15:50:54 +0000 Kennerdeighs-MacBook-Pro.local (9883)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Enabling the Request Sampler.
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Environment: development
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Dispatcher: webrick
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Installing Net instrumentation
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Finished instrumentation
+[12/13/13 15:50:55 +0000 Kennerdeighs-MacBook-Pro.local (9886)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Enabling the Request Sampler.
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Environment: development
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Dispatcher: webrick
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Installing Net instrumentation
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Finished instrumentation
+[12/13/13 15:52:11 +0000 Kennerdeighs-MacBook-Pro.local (9893)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Enabling the Request Sampler.
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Environment: development
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Dispatcher: webrick
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Installing Net instrumentation
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Finished instrumentation
+[12/13/13 15:52:43 +0000 Kennerdeighs-MacBook-Pro.local (9898)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Enabling the Request Sampler.
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Environment: development
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Dispatcher: webrick
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Installing Net instrumentation
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Finished instrumentation
+[12/13/13 15:53:08 +0000 Kennerdeighs-MacBook-Pro.local (9906)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Enabling the Request Sampler.
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Environment: development
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Dispatcher: webrick
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Installing Net instrumentation
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Finished instrumentation
+[12/13/13 15:53:17 +0000 Kennerdeighs-MacBook-Pro.local (9912)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Enabling the Request Sampler.
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Environment: development
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Dispatcher: webrick
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Installing Net instrumentation
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Finished instrumentation
+[12/13/13 15:54:46 +0000 Kennerdeighs-MacBook-Pro.local (9916)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Enabling the Request Sampler.
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Environment: development
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Dispatcher: webrick
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Installing Net instrumentation
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Finished instrumentation
+[12/13/13 15:55:27 +0000 Kennerdeighs-MacBook-Pro.local (9923)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Enabling the Request Sampler.
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Environment: development
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Dispatcher: webrick
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Installing Net instrumentation
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Finished instrumentation
+[12/13/13 15:55:51 +0000 Kennerdeighs-MacBook-Pro.local (9929)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Environment: development
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Dispatcher: webrick
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Installing Net instrumentation
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Finished instrumentation
+[12/13/13 15:56:03 +0000 Kennerdeighs-MacBook-Pro.local (9933)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Environment: development
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Dispatcher: webrick
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Installing Net instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Finished instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9937)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Environment: development
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Dispatcher: webrick
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Installing Net instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Finished instrumentation
+[12/13/13 15:56:05 +0000 Kennerdeighs-MacBook-Pro.local (9940)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Environment: development
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Dispatcher: webrick
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Installing Net instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Finished instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9944)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Environment: development
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Dispatcher: webrick
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Installing Net instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Finished instrumentation
+[12/13/13 15:56:07 +0000 Kennerdeighs-MacBook-Pro.local (9947)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Environment: development
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Dispatcher: webrick
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Installing Net instrumentation
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Finished instrumentation
+[12/13/13 15:56:48 +0000 Kennerdeighs-MacBook-Pro.local (9952)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Environment: development
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Dispatcher: webrick
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Installing Net instrumentation
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Finished instrumentation
+[12/13/13 15:56:50 +0000 Kennerdeighs-MacBook-Pro.local (9956)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Environment: development
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Dispatcher: webrick
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Installing Net instrumentation
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Finished instrumentation
+[12/13/13 15:56:51 +0000 Kennerdeighs-MacBook-Pro.local (9959)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Environment: development
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Dispatcher: webrick
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Installing Net instrumentation
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Finished instrumentation
+[12/13/13 15:56:52 +0000 Kennerdeighs-MacBook-Pro.local (9963)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Environment: development
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Dispatcher: webrick
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Installing Net instrumentation
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Finished instrumentation
+[12/13/13 15:56:57 +0000 Kennerdeighs-MacBook-Pro.local (9967)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Enabling the Request Sampler.
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Environment: development
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Dispatcher: webrick
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Installing Net instrumentation
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Finished instrumentation
+[12/13/13 15:56:58 +0000 Kennerdeighs-MacBook-Pro.local (9970)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Enabling the Request Sampler.
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Environment: development
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Dispatcher: webrick
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Installing Net instrumentation
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Finished instrumentation
+[12/13/13 15:57:37 +0000 Kennerdeighs-MacBook-Pro.local (9978)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Enabling the Request Sampler.
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Environment: development
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Dispatcher: webrick
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Installing Net instrumentation
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Finished instrumentation
+[12/13/13 15:57:38 +0000 Kennerdeighs-MacBook-Pro.local (9981)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Enabling the Request Sampler.
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Environment: development
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Dispatcher: webrick
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Installing Net instrumentation
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Finished instrumentation
+[12/13/13 15:57:51 +0000 Kennerdeighs-MacBook-Pro.local (9986)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Enabling the Request Sampler.
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Environment: development
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Dispatcher: webrick
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Installing Net instrumentation
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Finished instrumentation
+[12/13/13 15:58:13 +0000 Kennerdeighs-MacBook-Pro.local (9991)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Enabling the Request Sampler.
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Environment: development
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Dispatcher: webrick
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Installing Net instrumentation
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Finished instrumentation
+[12/13/13 15:58:14 +0000 Kennerdeighs-MacBook-Pro.local (9995)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Enabling the Request Sampler.
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Environment: development
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Dispatcher: webrick
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Installing Net instrumentation
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Finished instrumentation
+[12/13/13 15:58:24 +0000 Kennerdeighs-MacBook-Pro.local (10000)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Enabling the Request Sampler.
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Environment: development
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Dispatcher: webrick
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Installing Net instrumentation
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Finished instrumentation
+[12/13/13 15:59:08 +0000 Kennerdeighs-MacBook-Pro.local (10006)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Enabling the Request Sampler.
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Environment: development
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Dispatcher: webrick
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Installing Net instrumentation
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Finished instrumentation
+[12/13/13 15:59:09 +0000 Kennerdeighs-MacBook-Pro.local (10009)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Enabling the Request Sampler.
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Environment: development
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Dispatcher: webrick
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] WARN : Agent configured not to send data in this environment.
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Installing Net instrumentation
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Installing Sinatra instrumentation
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Installing deferred Rack instrumentation
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Finished instrumentation
+[12/13/13 15:59:59 +0000 Kennerdeighs-MacBook-Pro.local (10013)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Enabling the Request Sampler.
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Environment: development
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Dispatcher: webrick
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Installing Net instrumentation
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Finished instrumentation
+[12/13/13 16:00:23 +0000 Kennerdeighs-MacBook-Pro.local (10023)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Enabling the Request Sampler.
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Environment: development
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Dispatcher: webrick
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Installing Net instrumentation
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Finished instrumentation
+[12/13/13 16:00:47 +0000 Kennerdeighs-MacBook-Pro.local (10028)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Enabling the Request Sampler.
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Environment: development
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Dispatcher: webrick
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Installing Net instrumentation
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Finished instrumentation
+[12/13/13 16:00:49 +0000 Kennerdeighs-MacBook-Pro.local (10031)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Enabling the Request Sampler.
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Environment: development
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Dispatcher: webrick
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Installing Net instrumentation
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Finished instrumentation
+[12/13/13 16:00:50 +0000 Kennerdeighs-MacBook-Pro.local (10035)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Environment: development
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Dispatcher: webrick
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Installing Net instrumentation
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Finished instrumentation
+[12/13/13 16:01:13 +0000 Kennerdeighs-MacBook-Pro.local (10041)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Environment: development
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Dispatcher: webrick
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Installing Net instrumentation
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Finished instrumentation
+[12/13/13 16:01:18 +0000 Kennerdeighs-MacBook-Pro.local (10045)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Environment: development
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Dispatcher: webrick
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Installing Net instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Finished instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10048)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Environment: development
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Dispatcher: webrick
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Installing Net instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Finished instrumentation
+[12/13/13 16:01:19 +0000 Kennerdeighs-MacBook-Pro.local (10051)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Environment: development
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Dispatcher: webrick
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Installing Net instrumentation
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Finished instrumentation
+[12/13/13 16:01:20 +0000 Kennerdeighs-MacBook-Pro.local (10054)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Environment: development
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Dispatcher: webrick
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Installing Net instrumentation
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Finished instrumentation
+[12/13/13 16:01:22 +0000 Kennerdeighs-MacBook-Pro.local (10058)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Environment: development
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Dispatcher: webrick
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Installing Net instrumentation
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Finished instrumentation
+[12/13/13 16:01:24 +0000 Kennerdeighs-MacBook-Pro.local (10062)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Environment: development
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Dispatcher: webrick
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Installing Net instrumentation
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Finished instrumentation
+[12/13/13 16:01:25 +0000 Kennerdeighs-MacBook-Pro.local (10065)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Environment: development
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Dispatcher: webrick
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Installing Net instrumentation
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Finished instrumentation
+[12/13/13 16:01:26 +0000 Kennerdeighs-MacBook-Pro.local (10069)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Environment: development
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Dispatcher: webrick
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Installing Net instrumentation
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Finished instrumentation
+[12/13/13 16:01:27 +0000 Kennerdeighs-MacBook-Pro.local (10072)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Environment: development
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Dispatcher: webrick
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Installing Net instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Finished instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10076)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Environment: development
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Dispatcher: webrick
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Installing Net instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Finished instrumentation
+[12/13/13 16:01:30 +0000 Kennerdeighs-MacBook-Pro.local (10079)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Environment: development
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Dispatcher: webrick
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Installing Net instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Finished instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10083)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Enabling the Request Sampler.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Environment: development
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Dispatcher: webrick
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Installing Net instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Finished instrumentation
+[12/13/13 16:01:35 +0000 Kennerdeighs-MacBook-Pro.local (10086)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Enabling the Request Sampler.
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Environment: development
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Dispatcher: webrick
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Installing Net instrumentation
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Finished instrumentation
+[12/13/13 16:03:41 +0000 Kennerdeighs-MacBook-Pro.local (10092)] INFO : Doing deferred dependency-detection before Rack startup
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Starting the New Relic agent in "development" environment.
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Reading configuration from config/newrelic.yml
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Enabling the Request Sampler.
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Environment: development
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Dispatcher: webrick
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Application: Breaking Bad Sudoku
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] WARN : Agent configured not to send data in this environment.
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Installing Net instrumentation
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Installing Sinatra instrumentation
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Installing deferred Rack instrumentation
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Finished instrumentation
+[12/13/13 16:18:01 +0000 Kennerdeighs-MacBook-Pro.local (10122)] INFO : Doing deferred dependency-detection before Rack startup

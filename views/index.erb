@@ -13,6 +13,16 @@
   <div id="flash">
     <%= flash[:notice] %>
   </div>
+      <div class="col_1">
+        <div id="level">
+          Choose Your Level:
+        </div>
+        <div>
+        <button><a href="/easy">Easy Cook, BITCH!</a></button>
+        <button><a href="/hard">Master Cook, BITCH!</a></button>
+        <button><a href="/solution">I've forgotten how to cook, show me the solution</a></button>
+        </div>
+      </div>
   <div id="sudoku">
     <form action="/" method="post">
     <% 3.times do |row| %>
@@ -37,13 +47,6 @@
     </div>
     </form>
   </div>
-    <div class="buttons">
-    <button><a href="/easy">Easy Cook, BITCH!</a></button>
-    <button><a href="/hard">Master Cook, BITCH!</a></button>
-    </div>
-      <div class="buttons2">
-        <button><a href="/solution">I've forgotten how to cook, show me the solution</a></button>
-      </div>
 </body>
 </html>
 

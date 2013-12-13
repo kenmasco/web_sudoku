@@ -34,24 +34,12 @@ div.box {
     width:100%;
     height:100%;
 }
-.container {
-    position: center;
-    width: 400px;
-    height: 200px;
-}
-
-.container img {
-    position: center;
-    width: 80%;
-    height: auto;
-}
 
 #flash {
   text-align: center;
   font-family: Arial;
   color: white
 }
-
 
 h1 {
   text-align: center;
@@ -96,4 +84,19 @@ a {
 
 #flash {
   margin: 10px;
+}
+
+.col_1{
+position: absolute;
+left: 200px;
+padding-top: 0px;
+width:125px;
+background-color:0A9113;
+text-align: left;
+font-family: serif;
+color: white;
+}
+
+#level{
+  text-align: center;
 }
