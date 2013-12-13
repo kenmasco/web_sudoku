@@ -1,6 +1,7 @@
 require "sinatra"
 require "sinatra/partial"
 require "rack-flash"
+require "newrelic_rpm"
 
 use Rack::Flash
 set :partial_template_engine, :erb
