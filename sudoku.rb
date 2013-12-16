@@ -36,6 +36,10 @@ def hard_puzzle(sudoku)
   numbers
 end
 
+def reset_current
+  session[:current_solution] = session[:puzzle]
+end
+
 get "/" do
   prepare_to_check_solution
   generate_new_puzzle_if_necessary
@@ -50,6 +54,10 @@ get '/solution' do
   @puzzle = session[:puzzle]
   @solution = session[:solution]
   erb :index
+end
+
+get '/help' do
+  erb :help
 end
 
 post "/" do
